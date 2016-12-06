@@ -1,1 +1,3 @@
-# Sails-Major-Project
+# myAPI
+
+a [Sails](http://sailsjs.org) application
